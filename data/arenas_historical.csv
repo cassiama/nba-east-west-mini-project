@@ -1,0 +1,110 @@
+season,team,conference,arena,city,lat,lon
+1980-81,Boston Celtics,East,Boston Garden,Boston,42.3664,-71.0622
+1980-81,New Jersey Nets,East,Rutgers Athletic Center,Piscataway,40.5237,-74.4451
+1980-81,New York Knicks,East,Madison Square Garden,New York,40.7505,-73.9934
+1980-81,Philadelphia 76ers,East,The Spectrum,Philadelphia,39.9043,-75.1718
+1980-81,Washington Bullets,East,Capital Centre,Landover,38.9078,-76.8645
+1980-81,Atlanta Hawks,East,The Omni,Atlanta,33.7589,-84.3972
+1980-81,Chicago Bulls,East,Chicago Stadium,Chicago,41.8819,-87.6742
+1980-81,Cleveland Cavaliers,East,Richfield Coliseum,Richfield,41.2256,-81.6420
+1980-81,Detroit Pistons,East,Pontiac Silverdome,Pontiac,42.6457,-83.2549
+1980-81,Indiana Pacers,East,Market Square Arena,Indianapolis,39.7707,-86.1535
+1980-81,Milwaukee Bucks,East,MECCA Arena,Milwaukee,43.0420,-87.9170
+1980-81,Dallas Mavericks,West,Reunion Arena,Dallas,32.7748,-96.8085
+1980-81,Denver Nuggets,West,McNichols Sports Arena,Denver,39.7430,-105.0206
+1980-81,Houston Rockets,West,The Summit,Houston,29.7309,-95.4339
+1980-81,Kansas City Kings,West,Kemper Arena,Kansas City,39.0819,-94.6027
+1980-81,San Antonio Spurs,West,HemisFair Arena,San Antonio,29.4189,-98.4869
+1980-81,Utah Jazz,West,Salt Palace,Salt Lake City,40.7660,-111.8950
+1980-81,Golden State Warriors,West,Oakland Coliseum Arena,Oakland,37.7503,-122.2030
+1980-81,Los Angeles Lakers,West,The Forum,Inglewood,33.9581,-118.3417
+1980-81,Phoenix Suns,West,Veterans Memorial Coliseum,Phoenix,33.4628,-112.0916
+1980-81,Portland Trail Blazers,West,Memorial Coliseum,Portland,45.5318,-122.6692
+1980-81,San Diego Clippers,West,San Diego Sports Arena,San Diego,32.7561,-117.2128
+1980-81,Seattle SuperSonics,West,Kingdome,Seattle,47.5952,-122.3316
+1990-91,Boston Celtics,East,Boston Garden,Boston,42.3664,-71.0622
+1990-91,New York Knicks,East,Madison Square Garden,New York,40.7505,-73.9934
+1990-91,New Jersey Nets,East,Brendan Byrne Arena,East Rutherford,40.8115,-74.0672
+1990-91,Philadelphia 76ers,East,The Spectrum,Philadelphia,39.9043,-75.1718
+1990-91,Washington Bullets,East,Capital Centre,Landover,38.9078,-76.8645
+1990-91,Miami Heat,East,Miami Arena,Miami,25.7811,-80.1979
+1990-91,Orlando Magic,East,Orlando Arena,Orlando,28.5402,-81.3845
+1990-91,Atlanta Hawks,East,The Omni,Atlanta,33.7589,-84.3972
+1990-91,Charlotte Hornets,East,Charlotte Coliseum,Charlotte,35.1719,-80.8829
+1990-91,Chicago Bulls,East,Chicago Stadium,Chicago,41.8819,-87.6742
+1990-91,Cleveland Cavaliers,East,Richfield Coliseum,Richfield,41.2256,-81.6420
+1990-91,Detroit Pistons,East,The Palace of Auburn Hills,Auburn Hills,42.6900,-83.2456
+1990-91,Indiana Pacers,East,Market Square Arena,Indianapolis,39.7707,-86.1535
+1990-91,Milwaukee Bucks,East,Bradley Center,Milwaukee,43.0435,-87.9167
+1990-91,Dallas Mavericks,West,Reunion Arena,Dallas,32.7748,-96.8085
+1990-91,Denver Nuggets,West,McNichols Sports Arena,Denver,39.7430,-105.0206
+1990-91,Houston Rockets,West,The Summit,Houston,29.7309,-95.4339
+1990-91,Minnesota Timberwolves,West,Target Center,Minneapolis,44.9795,-93.2761
+1990-91,San Antonio Spurs,West,HemisFair Arena,San Antonio,29.4189,-98.4869
+1990-91,Utah Jazz,West,Salt Palace,Salt Lake City,40.7660,-111.8950
+1990-91,Golden State Warriors,West,Oakland Coliseum Arena,Oakland,37.7503,-122.2030
+1990-91,LA Clippers,West,Los Angeles Memorial Sports Arena,Los Angeles,34.0162,-118.2873
+1990-91,Los Angeles Lakers,West,The Forum,Inglewood,33.9581,-118.3417
+1990-91,Phoenix Suns,West,Veterans Memorial Coliseum,Phoenix,33.4628,-112.0916
+1990-91,Portland Trail Blazers,West,Memorial Coliseum,Portland,45.5318,-122.6692
+1990-91,Sacramento Kings,West,ARCO Arena,Sacramento,38.6491,-121.5181
+1990-91,Seattle SuperSonics,West,Seattle Center Coliseum,Seattle,47.6221,-122.3540
+2000-01,Boston Celtics,East,FleetCenter,Boston,42.3662,-71.0621
+2000-01,New York Knicks,East,Madison Square Garden,New York,40.7505,-73.9934
+2000-01,New Jersey Nets,East,Continental Airlines Arena,East Rutherford,40.8115,-74.0672
+2000-01,Philadelphia 76ers,East,First Union Center,Philadelphia,39.9012,-75.1720
+2000-01,Washington Wizards,East,MCI Center,Washington,38.8981,-77.0209
+2000-01,Miami Heat,East,AmericanAirlines Arena,Miami,25.7814,-80.1870
+2000-01,Orlando Magic,East,TD Waterhouse Centre,Orlando,28.5402,-81.3845
+2000-01,Atlanta Hawks,East,Philips Arena,Atlanta,33.7573,-84.3963
+2000-01,Charlotte Hornets,East,Charlotte Coliseum,Charlotte,35.1719,-80.8829
+2000-01,Chicago Bulls,East,United Center,Chicago,41.8807,-87.6742
+2000-01,Cleveland Cavaliers,East,Gund Arena,Cleveland,41.4965,-81.6882
+2000-01,Detroit Pistons,East,The Palace of Auburn Hills,Auburn Hills,42.6900,-83.2456
+2000-01,Indiana Pacers,East,Conseco Fieldhouse,Indianapolis,39.7640,-86.1555
+2000-01,Milwaukee Bucks,East,Bradley Center,Milwaukee,43.0435,-87.9167
+2000-01,Toronto Raptors,East,Air Canada Centre,Toronto,43.6435,-79.3791
+2000-01,Dallas Mavericks,West,Reunion Arena,Dallas,32.7748,-96.8085
+2000-01,Denver Nuggets,West,Pepsi Center,Denver,39.7487,-105.0077
+2000-01,Houston Rockets,West,Compaq Center,Houston,29.7309,-95.4339
+2000-01,Minnesota Timberwolves,West,Target Center,Minneapolis,44.9795,-93.2761
+2000-01,San Antonio Spurs,West,Alamodome,San Antonio,29.4169,-98.4789
+2000-01,Utah Jazz,West,Delta Center,Salt Lake City,40.7683,-111.9011
+2000-01,Vancouver Grizzlies,West,General Motors Place,Vancouver,49.2778,-123.1089
+2000-01,Golden State Warriors,West,The Arena in Oakland,Oakland,37.7503,-122.2030
+2000-01,LA Clippers,West,Staples Center,Los Angeles,34.0430,-118.2673
+2000-01,Los Angeles Lakers,West,Staples Center,Los Angeles,34.0430,-118.2673
+2000-01,Phoenix Suns,West,America West Arena,Phoenix,33.4457,-112.0712
+2000-01,Portland Trail Blazers,West,Rose Garden,Portland,45.5316,-122.6668
+2000-01,Sacramento Kings,West,ARCO Arena,Sacramento,38.6491,-121.5181
+2000-01,Seattle SuperSonics,West,KeyArena,Seattle,47.6221,-122.3540
+2010-11,Boston Celtics,East,TD Garden,Boston,42.3662,-71.0621
+2010-11,New York Knicks,East,Madison Square Garden,New York,40.7505,-73.9934
+2010-11,New Jersey Nets,East,Prudential Center,Newark,40.7336,-74.1711
+2010-11,Philadelphia 76ers,East,Wells Fargo Center,Philadelphia,39.9012,-75.1720
+2010-11,Washington Wizards,East,Verizon Center,Washington,38.8981,-77.0209
+2010-11,Miami Heat,East,AmericanAirlines Arena,Miami,25.7814,-80.1870
+2010-11,Orlando Magic,East,Amway Center,Orlando,28.5392,-81.3839
+2010-11,Atlanta Hawks,East,Philips Arena,Atlanta,33.7573,-84.3963
+2010-11,Charlotte Bobcats,East,Time Warner Cable Arena,Charlotte,35.2251,-80.8392
+2010-11,Chicago Bulls,East,United Center,Chicago,41.8807,-87.6742
+2010-11,Cleveland Cavaliers,East,Quicken Loans Arena,Cleveland,41.4965,-81.6882
+2010-11,Detroit Pistons,East,The Palace of Auburn Hills,Auburn Hills,42.6900,-83.2456
+2010-11,Indiana Pacers,East,Conseco Fieldhouse,Indianapolis,39.7640,-86.1555
+2010-11,Milwaukee Bucks,East,Bradley Center,Milwaukee,43.0435,-87.9167
+2010-11,Toronto Raptors,East,Air Canada Centre,Toronto,43.6435,-79.3791
+2010-11,Dallas Mavericks,West,American Airlines Center,Dallas,32.7905,-96.8103
+2010-11,Denver Nuggets,West,Pepsi Center,Denver,39.7487,-105.0077
+2010-11,Houston Rockets,West,Toyota Center,Houston,29.7508,-95.3621
+2010-11,Memphis Grizzlies,West,FedExForum,Memphis,35.1382,-90.0506
+2010-11,Minnesota Timberwolves,West,Target Center,Minneapolis,44.9795,-93.2761
+2010-11,New Orleans Hornets,West,New Orleans Arena,New Orleans,29.9490,-90.0821
+2010-11,Oklahoma City Thunder,West,Oklahoma City Arena,Oklahoma City,35.4634,-97.5151
+2010-11,San Antonio Spurs,West,AT&T Center,San Antonio,29.4270,-98.4375
+2010-11,Utah Jazz,West,EnergySolutions Arena,Salt Lake City,40.7683,-111.9011
+2010-11,Golden State Warriors,West,Oracle Arena,Oakland,37.7503,-122.2030
+2010-11,LA Clippers,West,Staples Center,Los Angeles,34.0430,-118.2673
+2010-11,Los Angeles Lakers,West,Staples Center,Los Angeles,34.0430,-118.2673
+2010-11,Phoenix Suns,West,US Airways Center,Phoenix,33.4457,-112.0712
+2010-11,Portland Trail Blazers,West,Rose Garden,Portland,45.5316,-122.6668
+2010-11,Sacramento Kings,West,ARCO Arena,Sacramento,38.6491,-121.5181

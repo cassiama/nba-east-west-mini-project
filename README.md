@@ -16,6 +16,11 @@ rival is 1,564 km away on average vs 928 km in the East) and runs a what-if:
 if Seattle and Las Vegas joined as expansion teams, the SVM says the
 Timberwolves are the team to move East.
 
+Two closing studies: a kernel comparison (RBF and a great-circle precomputed
+kernel reproduce the same split — complexity buys nothing on separable data)
+and era maps from 1980–81 to today showing the max-margin line drifting east
+as the league expanded and relocated.
+
 ## Quickstart
 
 Requires [uv](https://docs.astral.sh/uv/).
@@ -36,6 +41,8 @@ uv run jupyter nbconvert --to notebook --execute --inplace notebooks/east_west_s
 - `data/arenas.csv` — hand-curated coordinates of all 30 NBA arenas (2025–26 season).
 - `data/state_population_2020.csv` — official 2020 US Census counts, lower 48 + DC.
 - `data/nba_champions.csv` — every NBA champion 1947–2025, mapped to its current franchise.
+- `data/arenas_historical.csv` — league snapshots (teams, conferences, era arenas) for
+  1980–81, 1990–91, 2000–01, and 2010–11.
 - Basemap boundaries from [Natural Earth](https://www.naturalearthdata.com/) (public
   domain), downloaded on first run and cached in `data/naturalearth/`.
 
