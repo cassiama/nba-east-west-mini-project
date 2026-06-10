@@ -1,0 +1,12 @@
+[project]
+name = "nba-east-west-mini-project"
+version = "0.1.0"
+description = "Visualizing the NBA's East-West conference split with an SVM on arena coordinates"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2",
+    "scikit-learn>=1.5",
+    "geopandas>=1.0",
+    "matplotlib>=3.9",
+    "jupyterlab>=4.2",
+]
