@@ -49,3 +49,12 @@ uv run jupyter nbconvert --to notebook --execute --inplace notebooks/east_west_s
 ## Stack
 
 pandas · scikit-learn · geopandas · matplotlib, managed with uv.
+
+## License
+
+The code and notebook are released under the [MIT License](LICENSE).
+
+The CSVs under `data/` are hand-compiled public facts (arena locations,
+conference alignments, champions) plus US Census counts, which are public
+domain. Natural Earth basemap data is public domain and is downloaded at run
+time, not redistributed here.
